@@ -36,10 +36,6 @@ This dataset can be utilized for various purposes, including but not limited to:
 
 We welcome contributions to improve this dataset. Please follow the standard procedure for issues and pull requests on GitHub.
 
-## License
-
-This dataset is released under the [License Name]. Please see the LICENSE file for more details.
-
 ---
 
 Feel free to reach out with any questions or feedback regarding this dataset. Happy coding!
